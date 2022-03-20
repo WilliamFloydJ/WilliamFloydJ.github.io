@@ -106,6 +106,7 @@ nav {
   background-size: 5vw 8vh;
   background-color: rgba(255, 255, 255, 0);
   border: none;
+  z-index: 10;
   filter: drop-shadow(0px 4px 6px #000000);
 }
 #UsaButton {
@@ -137,7 +138,7 @@ nav {
   alt: France;
 }
 #GermanyButton {
-  background-image: url(WilliamFloydJ.github.io/images/Germany.webp);
+  background-image: url(https://WilliamFloydJ.github.io/images/Germany.webp);
   alt: France;
 }
 .normalButton {
