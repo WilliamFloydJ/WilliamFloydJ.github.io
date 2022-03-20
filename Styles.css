@@ -92,7 +92,7 @@ header h1 {
 }
 nav {
   width: 100%;
-  margin: none;
+  margin: 0px;
   filter: drop-shadow(0px 4px 8px #000000);
   background-color: #1e3f20;
 }
@@ -110,7 +110,7 @@ nav {
   filter: drop-shadow(0px 4px 6px #000000);
 }
 #UsaButton {
-  background-image: url(images/USA.png);
+  background-image: url(/Images/USA.png);
   width: 10vw;
   height: 8vh;
   alt: USA;
