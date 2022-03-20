@@ -117,28 +117,28 @@ nav {
   background-size: 10vw 8vh;
 }
 #UkButton {
-  background-image: url(images/UK.svg);
+  background-image: url(/Images/UK.svg);
   alt: UK;
 }
 #RussiaButton {
-  background-image: url(images/Russia.png);
+  background-image: url(/Images/Russia.png);
   alt: Russia;
 }
 #FranceButton {
-  background-image: url(images/France.png);
+  background-image: url(/Images/France.png);
   alt: France;
 }
 #ItalyButton {
-  background-image: url(images/italy.png);
+  background-image: url(/Images/italy.png);
   alt: France;
   margin-left: 8.5%;
 }
 #JapanButton {
-  background-image: url(images/japan.png);
+  background-image: url(/Images/japan.png);
   alt: France;
 }
 #GermanyButton {
-  background-image: url(https://WilliamFloydJ.github.io/images/Germany.webp);
+  background-image: url(https://WilliamFloydJ.github.io/Images/Germany.webp);
   alt: France;
 }
 .normalButton {
